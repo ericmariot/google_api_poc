@@ -1,0 +1,1 @@
+# [POC] Google API retrieve email content
